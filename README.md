@@ -45,7 +45,7 @@ POST /mail/event
 
 ## Mail Parser
 
-This endpoint receive a mail as a file using form data.
+This endpoint receive a [mail with attachment](https://support.google.com/mail/answer/9261412?hl=en) as a file using form data.
 
 ```http
 POST /mail/parse
